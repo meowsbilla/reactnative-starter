@@ -1,0 +1,9 @@
+1) Create New React native app.
+2) Create Structure for apps like screens, constant, model, style etc.
+3) Install React Navigation.
+   I) npm install @react-navigation/native
+  II) npx expo install react-native-screens react-native-safe-area-context
+ III) npm install @react-navigation/native-stack
+
+ 
+ 
